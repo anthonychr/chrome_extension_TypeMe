@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name" : "Type Me",
 	"version" : "1.0",
-	"description" : "This extension trakcs your overall spendings",
+	"description" : "This extension for typing anything in the input box and showing on the Title",
 	"icons": {
 
 		"128": "128a.png",
